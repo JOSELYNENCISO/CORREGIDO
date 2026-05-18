@@ -1,0 +1,9 @@
+streamlit
+pandas
+matplotlib
+openpyxl
+shapely
+pyogrio
+fiona
+pyproj
+geopandas==0.14.4
